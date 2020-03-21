@@ -1,11 +1,11 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "6d354a1f6c1452582ce886a04b2b709ce770f422ef95ddc4efe8e0b8ccccc02e"
+            "sha256": "b0d1d6512d9ce9b9064368100dba656c166a4b3ec910803c5387609fc232815b"
         },
         "pipfile-spec": 6,
         "requires": {
-            "python_version": "3.5"
+            "python_version": "3.7"
         },
         "sources": [
             {
@@ -18,11 +18,11 @@
     "default": {
         "pydicom": {
             "hashes": [
-                "sha256:1490b78152f275daa3058ae661a5dc720d8e99d17ab7dd62862beb5e87a200e2",
-                "sha256:881fe64316f1dbc137afec73df621a2ffa8b288b3ceb3cc639e75603cd38244e"
+                "sha256:9488495a9f3e202d1219f7cb165aee0de31efd512d938c0226d34147ce860391",
+                "sha256:f315ba2296346f4f9913c269618201e170b9326362e2ada6041ca91b7cb2117b"
             ],
             "index": "pypi",
-            "version": "==1.4.1"
+            "version": "==1.4.2"
         },
         "pyqt5": {
             "hashes": [
